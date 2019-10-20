@@ -1,13 +1,13 @@
 # README
 
-- Ruby version
-  2.6.0
+- Ruby version <br>
+  &nbsp;2.6.0
 
-- Rails version
-  6.0.0
+- Rails version <br>
+  &nbsp;6.0.0
 
-- Setup
-  Clone project https://github.com/Luey-Ny0ike/odin-kittens.git
+- Setup <br>
+  &nbsp;Clone project https://github.com/Luey-Ny0ike/odin-kittens.git
 
   cd into the directory and run:
 
